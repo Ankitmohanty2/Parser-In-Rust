@@ -1,4 +1,3 @@
-
 # Parser-Rust
 
 ### A From-Scratch Pratt Parser and Expression Evaluator in Rust
